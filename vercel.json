@@ -13,7 +13,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://your.url.from.vercel.app",
+        "APP_URL": "https://laravel-rest-api-git-main-jayubisses-projects.vercel.app/",
         "APP_KEY": "base64:EE17+R14rTGz/RsRSrdL5LT+g78FVnrZigI5Bv5R3+Y=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
